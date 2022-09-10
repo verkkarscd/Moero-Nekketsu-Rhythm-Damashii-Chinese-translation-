@@ -1,3 +1,3 @@
 # Moero-Nekketsu-Rhythm-Damashii-Chinese-translation-
-s
-![image](https://github.com/verkkarscd/Moero-Nekketsu-Rhythm-Damashii-Chinese-translation-/blob/main/read/OS01_n.bmp)
+
+![image](https://github.com/verkkarscd/Moero-Nekketsu-Rhythm-Damashii-Chinese-translation-/blob/db8e872991cfe4c67ad5318a576c7d50730b147c/read/OS01_n.bmp)
